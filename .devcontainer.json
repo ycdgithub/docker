@@ -1,0 +1,10 @@
+{
+    "name": "Ubuntu Docker for OS Experiments",
+    "image": "ubuntu",
+    "extensions": [],
+    "settings": {},
+    "forwardPorts": [],
+    "postCreateCommand": "bash .devcontainer/post-create.sh",
+    "remoteUser": "vscode"
+  }
+  
